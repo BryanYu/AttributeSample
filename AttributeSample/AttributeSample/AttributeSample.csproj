@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Attributes\CustomeAttribute.cs" />
+    <Compile Include="Attributes\AliasAttribute.cs" />
     <Compile Include="Enums\MessageType.cs" />
     <Compile Include="Extensions\AttributeExtension.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
